@@ -4,7 +4,7 @@ _This project is made for accomplishing phase 0 as Milestone 1 in Hacktiv8_
 ## Objectives
 - Statistics: Descriptive and Inferential
 - EDA and Visualisation
-- Creating Dashboard using Tableu
+- Creating Dashboard using tableau
 
 ## Libraries
 - Pandas
